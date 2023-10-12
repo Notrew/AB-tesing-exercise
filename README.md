@@ -2,7 +2,7 @@
 
 to see which version plays better
 
-### A/B testing step:
+### A/B testing steps:
 - Fix some version
 - All users are divided into two (or several) groups
 - Detect and resolve problems in the data 
