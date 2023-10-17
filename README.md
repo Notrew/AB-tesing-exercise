@@ -30,6 +30,6 @@ to see which version plays better
 |1|[Test effect of site version](https://github.com/Notrew/AB-tesing-exercise/blob/main/scr/AB_testing_for_site_version.ipynb)|
 |2|[Test effect of ads showing](https://github.com/Notrew/AB-tesing-exercise/blob/main/scr/AB_testing_for_showing_ads.ipynb)|
 |3|[Test effect of game version](https://github.com/Notrew/AB-tesing-exercise/blob/main/scr/AB_testing_for_game_version.ipynb)|
-|3|[Test effect of web interface](https://github.com/Notrew/AB-tesing-exercise/blob/main/scr/AB_testing_for_web_interface.ipynb)|
+|4|[Test effect of web interface](https://github.com/Notrew/AB-tesing-exercise/blob/main/scr/AB_testing_for_web_interface.ipynb)|
 
 
